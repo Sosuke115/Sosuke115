@@ -1,12 +1,25 @@
-### Hi there 👋 I'm Sosuke Nishikawa.
+<div align="center">
+  <h1>Hi there, I'm <a href="https://Sosuke115.github.io/">Ruveyda</a>👋</h1> 	   
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sosuke115&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sosuke115" />
-</a>
 
+## 📈 GitHub Stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<p float="center">
+<a> <img src="https://github-readme-stats.vercel.app/api?username=Sosuke115&show_icons=true&include_all_commits=true&hide=contribs,prs,issues&theme=tokyonight" /></a>
+<a> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sosuke115&layout=compact&theme=tokyonight"/></a>
+</p>
+
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sosuke-nishikawa-2100581a0/"><img height="70" alt="Linkedin" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/linkedin.svg" ></a>
+<a href="http://twitter.com/ponyo_ponyo115"><img height="70" alt="Twitter" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/twitter.svg" ></a>
+<a href="https://github.com/Sosuke115"><img height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/github.svg" ></a>
+
+</div>
 
 
 <!-- 
