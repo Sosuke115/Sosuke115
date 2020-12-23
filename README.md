@@ -13,7 +13,7 @@
 
 <!-- </div> -->
 
-- 🎓 Master's student @ UTokyo and NII
+- 🎓 Master's student @ [UTokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml) and [NII](https://www.nii.ac.jp/en/)
 - 💻 Machine learning engineer (part-time) @ [Studio Ousia](https://www.ousia.jp/en/)
 - 🏡 Tokyo, Japan
 
