@@ -14,7 +14,7 @@
 <!-- </div> -->
 
 - 🎓 UTokyo, NII
-- 💻 Machine learning Engineer
+- 💻 Machine learning Engineer @ [Studio Ousia](https://www.ousia.jp/en/)
 - 🏡 Tokyo, Japan
 
 
