@@ -2,17 +2,21 @@
   <h1>Hi there, I'm <a href="https://Sosuke115.github.io/">Sosuke Nishikawa</a>👋</h1> 	   
 </div>
 
-<div align="center">
+<!-- <div align="right"> -->
+  
+  
 
-<a href="https://www.linkedin.com/in/sosuke-nishikawa-2100581a0/"><img height="70" alt="Linkedin" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/linkedin.svg" ></a>
-<a href="http://twitter.com/ponyo_ponyo115"><img height="70" alt="Twitter" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/twitter.svg" ></a>
-<a href="https://github.com/Sosuke115"><img height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/github.svg" ></a>
 
-</div>
+<a href="https://www.linkedin.com/in/sosuke-nishikawa-2100581a0/"><img align="right" height="70" alt="Linkedin" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/linkedin.svg" ></a>
+<a href="http://twitter.com/ponyo_ponyo115"><img align="right" height="70" alt="Twitter" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/twitter.svg" ></a>
+<a href="https://github.com/Sosuke115"><img align="right" height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/github.svg" ></a>
+
+<!-- </div> -->
 
 - 🎓 UTokyo, NII
 - 💻 Machine learning Engineer
 - 🏡 Tokyo, Japan
+
 
 
 ## 📈 GitHub Stats
