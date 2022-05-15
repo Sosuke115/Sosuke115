@@ -1,22 +1,11 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://Sosuke115.github.io/">Sosuke Nishikawa</a>👋</h1> 	   
+  <h1>Hi there, I'm <a href="https://Sosuke115.github.io/">Sosuke Nishikawa</a>👋  
+<a href="https://www.linkedin.com/in/sosuke-nishikawa-2100581a0/"><img align="right" height="50" alt="Linkedin" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" ></a>
+<a href="http://twitter.com/ponyo_ponyo115"><img align="right" height="50" alt="Twitter" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" ></a>
+  </h1> 	 
 </div>
 
-<!-- <div align="right"> -->
-  
-  
-
-
-<a href="https://www.linkedin.com/in/sosuke-nishikawa-2100581a0/"><img align="right" height="70" alt="Linkedin" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/linkedin.svg" ></a>
-<a href="http://twitter.com/ponyo_ponyo115"><img align="right" height="70" alt="Twitter" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/twitter.svg" ></a>
-<a href="https://github.com/Sosuke115"><img align="right" height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/github.svg" ></a>
-
-<!-- </div> -->
-
-- 🎓 Master's student @ [UTokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml) and [NII](https://www.nii.ac.jp/en/)
-- 💻 Machine learning engineer (part-time) @ [Studio Ousia](https://www.ousia.jp/en/)
-- 🏡 Tokyo, Japan
-
+<br />
 
 
 ## 📈 GitHub Stats
@@ -42,7 +31,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
@@ -53,13 +41,8 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  
-  
-  <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/>
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="javascript" width="40" height="40"/>
   
 
 </p>
